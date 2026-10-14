@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "1cb5b4463433e5b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d085a6d13e86a4a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c3d2582883cf41",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7aabc44b63724a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "95457ee9fca4dfe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f2cda16890919ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a449ceb051d83925",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8c46d1a8f5962cc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "75ccc7960ca22966",
+    "type": "split",
+    "children": [
+      {
+        "id": "d55c07e5be0d4565",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9bee4c27c8eba21d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0b0a01a4fc72a23c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Actors/spatial plan committee.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b106df8dec4e8932",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d4520225a85e5bc5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Part 2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Part 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.51171875
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1f2cda16890919ed",
+  "lastOpenFiles": [
+    "Actors/spatial plan committee.md",
+    "Planning Act Provisions/Part 3, Subpart 1 - Regional spatial plans.md",
+    "Planning Act Provisions/Part 1 - Preliminary Provisions.md",
+    "Instruments/regional spatial plan.md",
+    "iwi participation legislation.md",
+    "Regional spatial plans.md",
+    "Instruments/land use plan.md",
+    "Planning Act Provisions/Part 2, Subpart 4 - National instruments.md",
+    "Instruments/Regional combined plan.md",
+    "Actors/local authority.md",
+    "Planning Act Provisions/Part 1, §3 — Interpretation.md",
+    "Planning Act Provisions/0 Planning Act 2026 v37.md",
+    "Concepts",
+    "Actors",
+    "Instruments",
+    "Planning Act Provisions/Schedule 4 - Independent Hearings Panels.md",
+    "Planning Act Provisions/Schedule 6 - Planning consents.md",
+    "Planning Act Provisions/Schedule 5 - Designations.md",
+    "Planning Act Provisions/Part 6 - Enforcement and other matters.md",
+    "Planning Act Provisions/Schedule 13 - Statutory acknowledgements.md",
+    "Planning Act Provisions/Schedule 12 - Amendments to other legislation.md",
+    "Planning Act Provisions/Schedule 11 - Statutory Officer.md",
+    "Planning Act Provisions/Schedule 10 - Planning Tribunal.md",
+    "Planning Act Provisions/Schedule 9 - Environment Court.md",
+    "Planning Act Provisions/Schedule 8 - Enforcement matters.md",
+    "Planning Act Provisions/Schedule 7 - Subdivision and reclamation.md",
+    "Planning Act Provisions/Schedule 3 - Further provisions relating to plans.md",
+    "Planning Act Provisions/Schedule 1 - Transitional, savings, and related provisions.md",
+    "Planning Act Provisions/Schedule 2 - Regional Spatial Plan.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Planning Act Provisions"
+  ]
+}
